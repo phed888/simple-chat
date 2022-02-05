@@ -1,10 +1,17 @@
-import Conversation from './Components/VA/Conversation'
-import ConversationContext from './Contexts/ConversationContext'
+import VACContainer from './Components/VA/VACContainer'
+import ConversationContextProvider from './Contexts/ConversationContext';
+import GlobalStyle from "./Styles/GlobalStyles";
+import VACContextProvider from "./Contexts/VACContext";
 
 function App() {
   return (
     <div className="App">
-      <Conversation />
+      <GlobalStyle />
+      <VACContextProvider>
+        <ConversationContextProvider>
+          <VACContainer />
+        </ConversationContextProvider>
+      </VACContextProvider>
     </div>
   );
 }
