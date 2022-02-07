@@ -24,18 +24,23 @@ const ButtonStyles = styled.button`
     ${({type}) => handleButtonActive(type)};
   }
   svg {
-    margin: ${(props) => props.iconLeading ? "0 .8rem 0 0" : "0 0 0 .8rem"};
+    margin: ${(props) => props.iconLeading ? "0 .4rem 0 0" : "0 0 0 .4rem"};
   }
   .btnContents {
+    display: flex;
+    align-items: center;
+    justify-content: ${ (props) => props.icon ? "flex-start" : "center"}
     padding: 0;
     margin: 0;
+    height: 1.6rem;
   }
 `
 
 const Button = ({ label, type, size, icon, iconLeading, btnAction }) => {
+    const handleClick = () => console.log(btnAction)
     return (
-      <ButtonStyles type={type} action={btnAction} size={size} iconLeading={iconLeading}>
-        <div className="btnContents">{ label }</div>
+      <ButtonStyles type={type} size={size} iconLeading={iconLeading} icon={icon} onClick={ handleClick }>
+        {icon && iconLeading ? <div className="btnContents"><SvgIcons name={icon} />{ label }</div> : icon ? <div className="btnContents">{ label }<SvgIcons name={icon} /></div> : <div className="btnContents">{ label }</div> }
       </ButtonStyles>
     )
 }

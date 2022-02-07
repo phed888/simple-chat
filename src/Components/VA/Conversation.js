@@ -3,7 +3,6 @@ import styled from 'styled-components'
 import { ConversationContext } from '../../Contexts/ConversationContext'
 import Message from './Message'
 import Button from '../UI/Button/Button'
-
 const ConversationStyles = styled.section`
 	border: 0.1rem solid var(--Border);
 	border-top: none;
@@ -32,15 +31,16 @@ const Conversation = () => {
 	
 	const convoElements = messages.map((message) => {
 		return (
-			<Message content={message.content} dir={message.msgDir} />
-			)}
-		)
+			<Message key={message.id} content={message.content} dir={message.msgDir} />
+			)
+		}
+	)	
 
 	const msgLength = messages.length;
 
 	const convoButtons = messages[msgLength - 1].buttons.map((button) => {
 		return (
-				<Button label={button.label} type={button.type} />
+				<Button key={button.id} label={button.label} type={button.type} icon={button.icon} iconLeading={button.iconLeading}/>
 			)
 	})
 
