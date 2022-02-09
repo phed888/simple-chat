@@ -40,7 +40,7 @@ const Conversation = () => {
 
 	const convoButtons = messages[msgLength - 1].buttons.map((button) => {
 		return (
-				<Button key={button.id} label={button.label} type={button.type} icon={button.icon} iconLeading={button.iconLeading}/>
+				<Button key={button.id} label={button.label} type={button.type} icon={button.icon} iconLeading={button.iconLeading} action={button.btnAction}/>
 			)
 	})
 

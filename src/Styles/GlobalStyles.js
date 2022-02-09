@@ -12,7 +12,13 @@ const GlobalStyle = createGlobalStyle`
     --QuickReplyHover: #e7edfd;
     --FABBg: #ffffff;
     --AvatarBg: #2950b8;
-    --Border: #D7D4D2
+    --Border: #D7D4D2;
+    --PrimaryHover: #2950B8;
+    --SecondaryHover: #f9f9f9;
+    --SecondaryOutline: #d7d4d2;
+    --SecondaryActive: #f5f5f5;
+    --TertiaryActive: #e7edfd;
+    --QRActive: #becdf8
   }
   *,
   *::before,

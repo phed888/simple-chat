@@ -1,15 +1,36 @@
 const handleButtonHover = type => {
   switch (type) {
     case 'primary':
-      return 'color: var(--TxtClrWhite); background-color: var(--BQuickReplyColor);';
+      return `
+        color: var(--White); 
+        background-color: var(--PrimaryHover); 
+        fill: var(--White);
+      `;
     case 'secondary':
-      return 'color: var(--QuickReplyColor); background-color: white; border: 1px solid #CCCFDB;';
+      return `
+        color: var(--TxtClrBlack); 
+        background-color: var(--SecondaryHover); 
+        border: 1px solid #CCCFDB; 
+        fill: var(--TxtClrBlack);
+      `;
     case 'tertiary':
-      return 'color: var(--TxtClrBlack); background-color: var(--TertiaryButtonHover); border: none;';
+      return `
+        color: var(--TxtClrBlack); 
+        background-color: var(--SecondaryHover); 
+        border: none; 
+        fill: var(--TxtClrBlack);
+      `;
     case 'qr':
-      return 'color: var(--QuickReplyColor); border: .1rem solid var(--QuickReplyColor); background-color: var(--QuickReplyHover);'
+      return `
+        color: var(--QuickReplyColor); 
+        border: .1rem solid var(--QuickReplyColor); 
+        background-color: var(--QuickReplyHover);
+      `;
     default:
-      return 'color: var(--TxtClrWhite); background-color: var(--BQuickReplyColor);';
+      return `
+        color: var(--White); 
+        background-color: var(--BQuickReplyColor);
+      `;
   }
 }
 

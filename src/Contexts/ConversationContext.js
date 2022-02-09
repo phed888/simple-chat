@@ -16,7 +16,7 @@ const ConversationContextProvider = props => {
 			content: "I can help you change your booking, redeem airline credit, and more. What would you like to do?",
 			msgDir: "in",
 			buttons: [
-				{ id: uuidv4(), label: "Cancel booking", type: "qr", size: "normal", icon: "ac_unit", iconLeading: true, btnAction: "CANCEL_BOOKING", },
+				{ id: uuidv4(), label: "Cancel booking", type: "qr", size: "normal", btnAction: "CANCEL_BOOKING", },
 				{ id: uuidv4(), type: "qr", label: "Change booking", btnAction: "CHANGE_BOOKING", },
 				{ id: uuidv4(), type: "qr", label: "Get refund status", btnAction: "GET_REFUND_STATUS", },
 				{ id: uuidv4(), type: "qr", label: "Use airline credit", btnAction: "USE_AIRLINE_CREDIT", },

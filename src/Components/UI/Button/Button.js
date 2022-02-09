@@ -5,8 +5,10 @@ import handleButtonType from './handleButtonType';
 import handleButtonSize from './handleButtonSize';
 import handleButtonHover from './handleButtonHover';
 import handleButtonActive from './handleButtonActive';
+import handleButtonDisabled from './handleButtonDisabled';
 
 const ButtonStyles = styled.button`
+  appearance: none;
   align-items: center;
   border: none;
   background-color: transparent;
@@ -23,8 +25,8 @@ const ButtonStyles = styled.button`
   &:active {
     ${({type}) => handleButtonActive(type)};
   }
-  svg {
-    margin: ${(props) => props.iconLeading ? "0 .4rem 0 0" : "0 0 0 .4rem"};
+  &:disabled {
+    ${({type}) => handleButtonDisabled(type)};
   }
   .btnContents {
     display: flex;
@@ -32,15 +34,20 @@ const ButtonStyles = styled.button`
     justify-content: ${ (props) => props.icon ? "flex-start" : "center"}
     padding: 0;
     margin: 0;
-    height: 1.6rem;
+    white-space: nowrap;
+    height: ${props => props.size === "small" ? "1.5rem" : props.size === "normal" ? "1.7rem" : "1.8rem"};
+     svg {
+      margin: ${(props) => props.iconLeading ? "0 .4rem 0 0" : "0 0 0 .4rem"};
+      height: ${props => props.size === "small" ? "1.6rem" : props.size === "normal" ? "2rem" : "2.4rem"};
+    }
   }
 `
 
-const Button = ({ label, type, size, icon, iconLeading, btnAction }) => {
+const Button = ({ label, type, size, icon, iconLeading, btnAction, disabled }) => {
     const handleClick = () => console.log(btnAction)
     return (
-      <ButtonStyles type={type} size={size} iconLeading={iconLeading} icon={icon} onClick={ handleClick }>
-        {icon && iconLeading ? <div className="btnContents"><SvgIcons name={icon} />{ label }</div> : icon ? <div className="btnContents">{ label }<SvgIcons name={icon} /></div> : <div className="btnContents">{ label }</div> }
+      <ButtonStyles type={type} size={size} iconLeading={iconLeading} icon={icon} onClick={ handleClick } disabled={disabled}>
+        {icon && iconLeading ? <div className="btnContents"><SvgIcons name={icon} /><p>{ label }</p></div> : icon ? <div className="btnContents">{ label }<SvgIcons name={icon} /></div> : <div className="btnContents">{ label }</div> }
       </ButtonStyles>
     )
 }
