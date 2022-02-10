@@ -1,0 +1,686 @@
+[
+	{
+		"name": "color__accent__1",
+		"hex": "274491"
+	},
+	{
+		"name": "color__accent__1__50",
+		"hex": "E7EDFD"
+	},
+	{
+		"name": "color__accent__1__100",
+		"hex": "BECDF8"
+	},
+	{
+		"name": "color__accent__1__200",
+		"hex": "95AFF3"
+	},
+	{
+		"name": "color__accent__1__300",
+		"hex": "6F91EF"
+	},
+	{
+		"name": "color__accent__1__400",
+		"hex": "4E78E6"
+	},
+	{
+		"name": "color__accent__1__500",
+		"hex": "3662D8"
+	},
+	{
+		"name": "color__accent__1__600",
+		"hex": "2950B8"
+	},
+	{
+		"name": "color__accent__1__700",
+		"hex": "274491"
+	},
+	{
+		"name": "color__accent__1__800",
+		"hex": "21356B"
+	},
+	{
+		"name": "color__accent__1__900",
+		"hex": "182444"
+	},
+	{
+		"name": "color__accent__2",
+		"hex": "3662D8"
+	},
+	{
+		"name": "color__accent__2__50",
+		"hex": "DDF7F7"
+	},
+	{
+		"name": "color__accent__2__100",
+		"hex": "B2ECF0"
+	},
+	{
+		"name": "color__accent__2__200",
+		"hex": "6AE0EB"
+	},
+	{
+		"name": "color__accent__2__300",
+		"hex": "27C4D9"
+	},
+	{
+		"name": "color__accent__2__400",
+		"hex": "1EA0C0"
+	},
+	{
+		"name": "color__accent__2__500",
+		"hex": "187FA5"
+	},
+	{
+		"name": "color__accent__2__600",
+		"hex": "11688D"
+	},
+	{
+		"name": "color__accent__2__700",
+		"hex": "0C4C71"
+	},
+	{
+		"name": "color__accent__2__800",
+		"hex": "083959"
+	},
+	{
+		"name": "color__accent__2__900",
+		"hex": "042743"
+	},
+	{
+		"name": "color__accent__3",
+		"hex": "274491"
+	},
+	{
+		"name": "color__accent__3__50",
+		"hex": "E7F1ED"
+	},
+	{
+		"name": "color__accent__3__100",
+		"hex": "C9E4DC"
+	},
+	{
+		"name": "color__accent__3__200",
+		"hex": "A6D3CD"
+	},
+	{
+		"name": "color__accent__3__300",
+		"hex": "7CB6B0"
+	},
+	{
+		"name": "color__accent__3__400",
+		"hex": "639795"
+	},
+	{
+		"name": "color__accent__3__500",
+		"hex": "547D7C"
+	},
+	{
+		"name": "color__accent__3__600",
+		"hex": "4A6968"
+	},
+	{
+		"name": "color__accent__3__700",
+		"hex": "3E5756"
+	},
+	{
+		"name": "color__accent__3__800",
+		"hex": "324544"
+	},
+	{
+		"name": "color__accent__3__900",
+		"hex": "253332"
+	},
+	{
+		"name": "color__accent__4",
+		"hex": "0D7066"
+	},
+	{
+		"name": "color__accent__4__50",
+		"hex": "E6F5DB"
+	},
+	{
+		"name": "color__accent__4__100",
+		"hex": "BAEBB1"
+	},
+	{
+		"name": "color__accent__4__200",
+		"hex": "6DDA83"
+	},
+	{
+		"name": "color__accent__4__300",
+		"hex": "29BC78"
+	},
+	{
+		"name": "color__accent__4__400",
+		"hex": "19947A"
+	},
+	{
+		"name": "color__accent__4__500",
+		"hex": "0D7066"
+	},
+	{
+		"name": "color__accent__4__600",
+		"hex": "075758"
+	},
+	{
+		"name": "color__accent__4__700",
+		"hex": "05414C"
+	},
+	{
+		"name": "color__accent__4__800",
+		"hex": "06353F"
+	},
+	{
+		"name": "color__accent__4__900",
+		"hex": "062A32"
+	},
+	{
+		"name": "color__accent__5",
+		"hex": "CA2E2B"
+	},
+	{
+		"name": "color__accent__5__50",
+		"hex": "FEECE5"
+	},
+	{
+		"name": "color__accent__5__100",
+		"hex": "FDD0BD"
+	},
+	{
+		"name": "color__accent__5__200",
+		"hex": "FDA487"
+	},
+	{
+		"name": "color__accent__5__300",
+		"hex": "F9774D"
+	},
+	{
+		"name": "color__accent__5__400",
+		"hex": "EB5433"
+	},
+	{
+		"name": "color__accent__5__500",
+		"hex": "CA2E2B"
+	},
+	{
+		"name": "color__accent__5__600",
+		"hex": "A5252D"
+	},
+	{
+		"name": "color__accent__5__700",
+		"hex": "7F1F30"
+	},
+	{
+		"name": "color__accent__5__800",
+		"hex": "5A172B"
+	},
+	{
+		"name": "color__accent__5__900",
+		"hex": "3D101F"
+	},
+	{
+		"name": "color__accent__6",
+		"hex": "2950B8"
+	},
+	{
+		"name": "color__accent__6__50",
+		"hex": "FAEEDB"
+	},
+	{
+		"name": "color__accent__6__100",
+		"hex": "EED7B2"
+	},
+	{
+		"name": "color__accent__6__200",
+		"hex": "DFBE8E"
+	},
+	{
+		"name": "color__accent__6__300",
+		"hex": "CAA97D"
+	},
+	{
+		"name": "color__accent__6__400",
+		"hex": "A68866"
+	},
+	{
+		"name": "color__accent__6__500",
+		"hex": "FFEAB8"
+	},
+	{
+		"name": "color__accent__6__600",
+		"hex": "FFDB87"
+	},
+	{
+		"name": "color__accent__6__700",
+		"hex": "FFC94C"
+	},
+	{
+		"name": "color__accent__6__800",
+		"hex": "FFBD24"
+	},
+	{
+		"name": "color__accent__6__900",
+		"hex": "FAAF00"
+	},
+	{
+		"name": "color__accent__7",
+		"hex": "4E78E6"
+	},
+	{
+		"name": "color__accent__7__50",
+		"hex": "F0EDF7"
+	},
+	{
+		"name": "color__accent__7__100",
+		"hex": "E0DAEF"
+	},
+	{
+		"name": "color__accent__7__200",
+		"hex": "CAC0DF"
+	},
+	{
+		"name": "color__accent__7__300",
+		"hex": "A99DC6"
+	},
+	{
+		"name": "color__accent__7__400",
+		"hex": "8F81AF"
+	},
+	{
+		"name": "color__accent__7__500",
+		"hex": "7C6F9B"
+	},
+	{
+		"name": "color__accent__7__600",
+		"hex": "695D85"
+	},
+	{
+		"name": "color__accent__7__700",
+		"hex": "574D6D"
+	},
+	{
+		"name": "color__accent__7__800",
+		"hex": "443D55"
+	},
+	{
+		"name": "color__accent__7__900",
+		"hex": "322D3E"
+	},
+	{
+		"name": "color__accent__8",
+		"hex": "BECDF8"
+	},
+	{
+		"name": "color__accent__8__50",
+		"hex": "E3F3F7"
+	},
+	{
+		"name": "color__accent__8__100",
+		"hex": "CBE4EC"
+	},
+	{
+		"name": "color__accent__8__200",
+		"hex": "ACCBD7"
+	},
+	{
+		"name": "color__accent__8__300",
+		"hex": "92B1BF"
+	},
+	{
+		"name": "color__accent__8__400",
+		"hex": "7695A3"
+	},
+	{
+		"name": "color__accent__8__500",
+		"hex": "5E7A87"
+	},
+	{
+		"name": "color__accent__8__600",
+		"hex": "506773"
+	},
+	{
+		"name": "color__accent__8__700",
+		"hex": "415460"
+	},
+	{
+		"name": "color__accent__8__800",
+		"hex": "32424C"
+	},
+	{
+		"name": "color__accent__8__900",
+		"hex": "243038"
+	},
+	{
+		"name": "color__accent__9",
+		"hex": "E7EDFD"
+	},
+	{
+		"name": "color__accent__9__50",
+		"hex": "F6E9EF"
+	},
+	{
+		"name": "color__accent__9__100",
+		"hex": "EAD4DF"
+	},
+	{
+		"name": "color__accent__9__200",
+		"hex": "DDBBCC"
+	},
+	{
+		"name": "color__accent__9__300",
+		"hex": "CA9EB3"
+	},
+	{
+		"name": "color__accent__9__400",
+		"hex": "B38098"
+	},
+	{
+		"name": "color__accent__9__500",
+		"hex": "98667D"
+	},
+	{
+		"name": "color__accent__9__600",
+		"hex": "81566D"
+	},
+	{
+		"name": "color__accent__9__700",
+		"hex": "6B485D"
+	},
+	{
+		"name": "color__accent__9__800",
+		"hex": "533A4B"
+	},
+	{
+		"name": "color__accent__9__900",
+		"hex": "3C2A38"
+	},
+	{
+		"name": "color__accent__10",
+		"hex": "274491"
+	},
+	{
+		"name": "color__accent__11",
+		"hex": "274491"
+	},
+	{
+		"name": "color__accent__12",
+		"hex": "FFC94C"
+	},
+	{
+		"name": "color__background__1",
+		"hex": "E7EDFD"
+	},
+	{
+		"name": "color__background__2",
+		"hex": "BECDF8"
+	},
+	{
+		"name": "color__brand__1",
+		"hex": "FFC94C"
+	},
+	{
+		"name": "color__brand__2",
+		"hex": "202843"
+	},
+	{
+		"name": "color__brand__3",
+		"hex": "141D38"
+	},
+	{
+		"name": "color__member__1",
+		"hex": "002480"
+	},
+	{
+		"name": "color__member__1__50",
+		"hex": "F8F5F4"
+	},
+	{
+		"name": "color__member__1__100",
+		"hex": "F0EBE8"
+	},
+	{
+		"name": "color__member__1__200",
+		"hex": "D7D4D2"
+	},
+	{
+		"name": "color__member__1__300",
+		"hex": "B9B6B8"
+	},
+	{
+		"name": "color__member__1__400",
+		"hex": "94949E"
+	},
+	{
+		"name": "color__member__1__500",
+		"hex": "727483"
+	},
+	{
+		"name": "color__member__1__600",
+		"hex": "575B6E"
+	},
+	{
+		"name": "color__member__1__700",
+		"hex": "002480"
+	},
+	{
+		"name": "color__member__1__800",
+		"hex": "202843"
+	},
+	{
+		"name": "color__member__1__900",
+		"hex": "141D38"
+	},
+	{
+		"name": "color__member__2",
+		"hex": "6B6B6B"
+	},
+	{
+		"name": "color__member__2__50",
+		"hex": "F8F5F4"
+	},
+	{
+		"name": "color__member__2__100",
+		"hex": "F0EBE8"
+	},
+	{
+		"name": "color__member__2__200",
+		"hex": "D7D4D2"
+	},
+	{
+		"name": "color__member__2__300",
+		"hex": "B9B6B8"
+	},
+	{
+		"name": "color__member__2__400",
+		"hex": "94949E"
+	},
+	{
+		"name": "color__member__2__500",
+		"hex": "727483"
+	},
+	{
+		"name": "color__member__2__600",
+		"hex": "6B6B6B"
+	},
+	{
+		"name": "color__member__2__700",
+		"hex": "343B53"
+	},
+	{
+		"name": "color__member__2__800",
+		"hex": "202843"
+	},
+	{
+		"name": "color__member__2__900",
+		"hex": "141D38"
+	},
+	{
+		"name": "color__member__3",
+		"hex": "8C7145"
+	},
+	{
+		"name": "color__member__3__50",
+		"hex": "F8F5F4"
+	},
+	{
+		"name": "color__member__3__100",
+		"hex": "F0EBE8"
+	},
+	{
+		"name": "color__member__3__200",
+		"hex": "D7D4D2"
+	},
+	{
+		"name": "color__member__3__300",
+		"hex": "B9B6B8"
+	},
+	{
+		"name": "color__member__3__400",
+		"hex": "94949E"
+	},
+	{
+		"name": "color__member__3__500",
+		"hex": "727483"
+	},
+	{
+		"name": "color__member__3__600",
+		"hex": "8C7145"
+	},
+	{
+		"name": "color__member__3__700",
+		"hex": "343B53"
+	},
+	{
+		"name": "color__member__3__800",
+		"hex": "202843"
+	},
+	{
+		"name": "color__member__3__900",
+		"hex": "141D38"
+	},
+	{
+		"name": "color__neutral__1__50",
+		"hex": "F8F5F4"
+	},
+	{
+		"name": "color__neutral__1__100",
+		"hex": "F0EBE8"
+	},
+	{
+		"name": "color__neutral__1__200",
+		"hex": "D7D4D2"
+	},
+	{
+		"name": "color__neutral__1__300",
+		"hex": "B9B6B8"
+	},
+	{
+		"name": "color__neutral__1__400",
+		"hex": "94949E"
+	},
+	{
+		"name": "color__neutral__1__500",
+		"hex": "727483"
+	},
+	{
+		"name": "color__neutral__1__600",
+		"hex": "575B6E"
+	},
+	{
+		"name": "color__neutral__1__700",
+		"hex": "343B53"
+	},
+	{
+		"name": "color__neutral__1__800",
+		"hex": "202843"
+	},
+	{
+		"name": "color__neutral__1__900",
+		"hex": "141D38"
+	},
+	{
+		"name": "color__neutral__2__50",
+		"hex": "F8F5F4"
+	},
+	{
+		"name": "color__neutral__2__100",
+		"hex": "F0EBE8"
+	},
+	{
+		"name": "color__neutral__2__200",
+		"hex": "D7D4D2"
+	},
+	{
+		"name": "color__neutral__2__300",
+		"hex": "B9B6B8"
+	},
+	{
+		"name": "color__neutral__2__400",
+		"hex": "94949E"
+	},
+	{
+		"name": "color__neutral__2__500",
+		"hex": "727483"
+	},
+	{
+		"name": "color__neutral__2__600",
+		"hex": "575B6E"
+	},
+	{
+		"name": "color__neutral__2__700",
+		"hex": "4C5467"
+	},
+	{
+		"name": "color__neutral__2__800",
+		"hex": "333C51"
+	},
+	{
+		"name": "color__neutral__2__900",
+		"hex": "1F2840"
+	},
+	{
+		"name": "color__neutral__100",
+		"hex": "F0EBE8"
+	},
+	{
+		"name": "color__neutral__200",
+		"hex": "D7D4D2"
+	},
+	{
+		"name": "color__neutral__300",
+		"hex": "B9B6B8"
+	},
+	{
+		"name": "color__neutral__400",
+		"hex": "94949E"
+	},
+	{
+		"name": "color__neutral__500",
+		"hex": "727483"
+	},
+	{
+		"name": "color__neutral__600",
+		"hex": "575B6E"
+	},
+	{
+		"name": "color__neutral__700",
+		"hex": "343B53"
+	},
+	{
+		"name": "color__neutral__800",
+		"hex": "202843"
+	},
+	{
+		"name": "color__neutral__900",
+		"hex": "141D38"
+	},
+	{
+		"name": "color__neutral__black",
+		"hex": "000B26"
+	},
+	{
+		"name": "color__neutral__white",
+		"hex": "FFFFFF"
+	}
+]

@@ -1,0 +1,190 @@
+[
+	{
+		"name": "background_color__action__default",
+		"hex": "#6f91ef"
+	},
+	{
+		"name": "background_color__action__emphasis",
+		"hex": "#95aff3"
+	},
+	{
+		"name": "background_color__action__muted",
+		"hex": "#95aff3"
+	},
+	{
+		"name": "background_color__action_alternate__emphasis",
+		"hex": "#727483"
+	},
+	{
+		"name": "background_color__action_alternate__muted",
+		"hex": "#575b6e"
+	},
+	{
+		"name": "background_color__base",
+		"hex": "#000b26"
+	},
+	{
+		"name": "background_color__contrast",
+		"hex": "#000b26"
+	},
+	{
+		"name": "background_color__high_elevation",
+		"hex": "#343b53"
+	},
+	{
+		"name": "background_color__highlight",
+		"hex": "#141d38"
+	},
+	{
+		"name": "background_color__low_elevation",
+		"hex": "#141d38"
+	},
+	{
+		"name": "background_color__medium_elevation",
+		"hex": "#202843"
+	},
+	{
+		"name": "background_color__negative__default",
+		"hex": "#fdd0bd"
+	},
+	{
+		"name": "background_color__negative__muted",
+		"hex": "#fdd0bd"
+	},
+	{
+		"name": "background_color__positive__default",
+		"hex": "#baebb1"
+	},
+	{
+		"name": "background_color__positive__muted",
+		"hex": "#baebb1"
+	},
+	{
+		"name": "border_color__action__default",
+		"hex": "#6f91ef"
+	},
+	{
+		"name": "border_color__action__emphasis",
+		"hex": "#ffffff"
+	},
+	{
+		"name": "border_color__default",
+		"hex": "#727483"
+	},
+	{
+		"name": "border_color__emphasis",
+		"hex": "#f0ebe8"
+	},
+	{
+		"name": "border_color__light",
+		"hex": "#ffffff"
+	},
+	{
+		"name": "border_color__muted",
+		"hex": "#727483"
+	},
+	{
+		"name": "border_color__negative",
+		"hex": "#fdd0bd"
+	},
+	{
+		"name": "border_color__positive",
+		"hex": "#baebb1"
+	},
+	{
+		"name": "fill_color__action__default",
+		"hex": "#95aff3"
+	},
+	{
+		"name": "fill_color__action__emphasis",
+		"hex": "#95aff3"
+	},
+	{
+		"name": "fill_color__action__muted",
+		"hex": "#95aff3"
+	},
+	{
+		"name": "fill_color__action_alternate",
+		"hex": "#ffffff"
+	},
+	{
+		"name": "fill_color__dark",
+		"hex": "#000b26"
+	},
+	{
+		"name": "fill_color__default",
+		"hex": "#f0ebe8"
+	},
+	{
+		"name": "fill_color__emphasis",
+		"hex": "#ffffff"
+	},
+	{
+		"name": "fill_color__inverse",
+		"hex": "#000b26"
+	},
+	{
+		"name": "fill_color__light",
+		"hex": "#ffffff"
+	},
+	{
+		"name": "fill_color__muted",
+		"hex": "#b9b6b8"
+	},
+	{
+		"name": "fill_color__negative",
+		"hex": "#feece5"
+	},
+	{
+		"name": "fill_color__positive",
+		"hex": "#e6f5db"
+	},
+	{
+		"name": "text_color__action__default",
+		"hex": "#95aff3"
+	},
+	{
+		"name": "text_color__action__emphasis",
+		"hex": "#95aff3"
+	},
+	{
+		"name": "text_color__action__muted",
+		"hex": "#95aff3"
+	},
+	{
+		"name": "text_color__action_alternate",
+		"hex": "#ffffff"
+	},
+	{
+		"name": "text_color__dark",
+		"hex": "#000b26"
+	},
+	{
+		"name": "text_color__default",
+		"hex": "#f0ebe8"
+	},
+	{
+		"name": "text_color__emphasis",
+		"hex": "#ffffff"
+	},
+	{
+		"name": "text_color__inverse",
+		"hex": "#000b26"
+	},
+	{
+		"name": "text_color__light",
+		"hex": "#ffffff"
+	},
+	{
+		"name": "text_color__muted",
+		"hex": "#b9b6b8"
+	},
+	{
+		"name": "text_color__negative",
+		"hex": "#feece5"
+	},
+	{
+		"name": "text_color__positive",
+		"hex": "#0d7066"
+	}
+]

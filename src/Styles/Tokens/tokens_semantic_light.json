@@ -1,0 +1,190 @@
+[
+	{
+		"name": "background_color__action__default",
+		"hex": "3662D8"
+	},
+	{
+	"name": "background_color__action__emphasis",
+		"hex": "2950B8"
+	},
+	{
+	"name": "background_color__action__muted",
+		"hex": "2950B8"
+	},
+	{
+	"name": "background_color__action_alternate__emphasis",
+		"hex": "E7EDFD"
+	},
+	{
+	"name": "background_color__action_alternate__muted",
+		"hex": "E7EDFD"
+	},
+	{
+	"name": "background_color__base",
+		"hex": "FFFFFF"
+	},
+	{
+	"name": "background_color__contrast",
+		"hex": "F8F5F4"
+	},
+	{
+	"name": "background_color__high_elevation",
+		"hex": "FFFFFF"
+	},
+	{
+	"name": "background_color__highlight",
+		"hex": "D7D4D2"
+	},
+	{
+	"name": "background_color__low_elevation",
+		"hex": "FFFFFF"
+	},
+	{
+	"name": "background_color__medium_elevation",
+		"hex": "FFFFFF"
+	},
+	{
+	"name": "background_color__negative__default",
+		"hex": "CA2E2B"
+	},
+	{
+	"name": "background_color__negative__muted",
+		"hex": "FEECE5"
+	},
+	{
+	"name": "background_color__positive__default",
+		"hex": "0D7066"
+	},
+	{
+	"name": "background_color__positive__muted",
+		"hex": "E6F5DB"
+	},
+	{
+	"name": "border_color__action__default",
+		"hex": "3662D8"
+	},
+	{
+	"name": "border_color__action__emphasis",
+		"hex": "141D38"
+	},
+	{
+	"name": "border_color__default",
+		"hex": "727483"
+	},
+	{
+	"name": "border_color__emphasis",
+		"hex": "575B6E"
+	},
+	{
+	"name": "border_color__light",
+		"hex": "FFFFFF"
+	},
+	{
+	"name": "border_color__muted",
+		"hex": "D7D4D2"
+	},
+	{
+	"name": "border_color__negative",
+		"hex": "CA2E2B"
+	},
+	{
+	"name": "border_color__positive",
+		"hex": "0D7066"
+	},
+	{
+	"name": "fill_color__action__default",
+		"hex": "3662D8"
+	},
+	{
+	"name": "fill_color__action__emphasis",
+		"hex": "3662D8"
+	},
+	{
+	"name": "fill_color__action__muted",
+		"hex": "3662D8"
+	},
+	{
+	"name": "fill_color__action_alternate",
+		"hex": "3662D8"
+	},
+	{
+	"name": "fill_color__dark",
+		"hex": "000B26"
+	},
+	{
+	"name": "fill_color__default",
+		"hex": "343B53"
+	},
+	{
+	"name": "fill_color__emphasis",
+		"hex": "141D38"
+	},
+	{
+	"name": "fill_color__inverse",
+		"hex": "FFFFFF"
+	},
+	{
+	"name": "fill_color__light",
+		"hex": "FFFFFF"
+	},
+	{
+	"name": "fill_color__muted",
+		"hex": "727483"
+	},
+	{
+	"name": "fill_color__negative",
+		"hex": "CA2E2B"
+	},
+	{
+	"name": "fill_color__positive",
+		"hex": "0D7066"
+	},
+	{
+	"name": "text_color__action__default",
+		"hex": "3662D8"
+	},
+	{
+	"name": "text_color__action__emphasis",
+		"hex": "3662D8"
+	},
+	{
+	"name": "text_color__action__muted",
+		"hex": "3662D8"
+	},
+	{
+	"name": "text_color__action_alternate",
+		"hex": "3662D8"
+	},
+	{
+	"name": "text_color__dark",
+		"hex": "000B26"
+	},
+	{
+	"name": "text_color__default",
+		"hex": "343B53"
+	},
+	{
+	"name": "text_color__emphasis",
+		"hex": "141D38"
+	},
+	{
+	"name": "text_color__inverse",
+		"hex": "FFFFFF"
+	},
+	{
+	"name": "text_color__light",
+		"hex": "FFFFFF"
+	},
+	{
+	"name": "text_color__muted",
+		"hex": "727483"
+	},
+	{
+	"name": "text_color__negative",
+		"hex": "CA2E2B"
+	},
+	{
+		"name": "text_color__positive",
+		"hex": "#0d7066"
+	}
+]
